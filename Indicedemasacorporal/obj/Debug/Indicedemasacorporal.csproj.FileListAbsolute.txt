@@ -1,0 +1,10 @@
+C:\Users\salva\OneDrive\Documentos\Proyectos Csharp\Indicedemasacorporal\bin\Debug\Indicedemasacorporal.exe.config
+C:\Users\salva\OneDrive\Documentos\Proyectos Csharp\Indicedemasacorporal\bin\Debug\Indicedemasacorporal.exe
+C:\Users\salva\OneDrive\Documentos\Proyectos Csharp\Indicedemasacorporal\bin\Debug\Indicedemasacorporal.pdb
+C:\Users\salva\OneDrive\Documentos\Proyectos Csharp\Indicedemasacorporal\obj\Debug\Indicedemasacorporal.csproj.AssemblyReference.cache
+C:\Users\salva\OneDrive\Documentos\Proyectos Csharp\Indicedemasacorporal\obj\Debug\Indicedemasacorporal.Form1.resources
+C:\Users\salva\OneDrive\Documentos\Proyectos Csharp\Indicedemasacorporal\obj\Debug\Indicedemasacorporal.Properties.Resources.resources
+C:\Users\salva\OneDrive\Documentos\Proyectos Csharp\Indicedemasacorporal\obj\Debug\Indicedemasacorporal.csproj.GenerateResource.cache
+C:\Users\salva\OneDrive\Documentos\Proyectos Csharp\Indicedemasacorporal\obj\Debug\Indicedemasacorporal.csproj.CoreCompileInputs.cache
+C:\Users\salva\OneDrive\Documentos\Proyectos Csharp\Indicedemasacorporal\obj\Debug\Indicedemasacorporal.exe
+C:\Users\salva\OneDrive\Documentos\Proyectos Csharp\Indicedemasacorporal\obj\Debug\Indicedemasacorporal.pdb
